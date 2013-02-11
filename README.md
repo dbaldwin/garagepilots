@@ -1,1 +1,1 @@
-This will be an evolving project of 3D designs for the multirotor community sponsored by Garage Pilots - garagepilots.com
+This will be an evolving project of 3D designs for the multirotor community sponsored by Garage Pilots - [garagepilots.com](http://garagepilots.com)
