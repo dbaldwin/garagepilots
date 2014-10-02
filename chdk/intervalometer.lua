@@ -49,7 +49,7 @@ for i=1, p, 1 do
   -- USB applied so let's shut down the camera, which will retract the lens
   if(u>0) then
     shut_down()
-  -- Continue shooting phtos on an interval
+  -- Continue shooting photos on an interval
   else
     ecnt=get_exp_count()
     press("shoot_full_only")
